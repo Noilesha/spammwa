@@ -14,4 +14,4 @@
 
     $ cd spammwa
  
-    $ python2 Spam-WA.py
+    $ python2 spamwa.py
